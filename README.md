@@ -11,4 +11,5 @@ Steps to start development
 
 For adding code to caramel
 * Make sure you go into `caramel` directory and pull the latest version, otherwise it won't be updated.
+* Checkout the branch that you want to use.
 * When making a change inside the `caramel` project, make sure you push both `caramel and `caramel-storybook` separately, otherwise it won't be updated in this repository.

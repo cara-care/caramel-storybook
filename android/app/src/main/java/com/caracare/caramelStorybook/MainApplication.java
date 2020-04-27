@@ -1,4 +1,4 @@
-package com.test;
+package com.caracare.caramelStorybook;
 
 import android.app.Application;
 import android.content.Context;

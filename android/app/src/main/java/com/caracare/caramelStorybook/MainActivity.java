@@ -1,4 +1,4 @@
-package com.test;
+package com.caracare.caramelStorybook;
 
 import com.facebook.react.ReactActivity;
 

@@ -13,3 +13,7 @@ Storybook project for developing caramel
 * Make sure you go into `caramel` directory and pull the latest version, otherwise it won't be updated.
 * Checkout the branch that you want to use.
 * When making a change inside the `caramel` project, make sure you push both `caramel` and `caramel-storybook` separately, otherwise it won't be updated in this repository.
+* If you have it, remove `node_modules` from `caramel` directory.
+* Run `yarn` at the root of the project.
+* Run the project like a regular react native application.
+* To open Storybook console, run `yarn storybook`.
